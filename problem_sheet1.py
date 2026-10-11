@@ -190,3 +190,6 @@ def plot_fidelity_after_dephasing(N_max, logical0, logical1, code_name=""):
         format="pdf",
         bbox_inches="tight"
     )
+
+
+""" Comparison Cat vs Binomial Codes """
